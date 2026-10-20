@@ -53,3 +53,7 @@ DeepSeek-R1 在强化学习前加入冷启动数据，并采用包含两阶段�
 - 摘要依据上述两个 DeepSeek 官方仓库的 README 整理；此处不转载全文或论文插图。
 - arXiv 标识来自官方资料。当前执行环境访问 arxiv.org 被网络代理拒绝，因此未直接核验论文页面内容；可从原始链接查阅全文与修订记录。
 - 本索引收录两份指定报告，不代表 DeepSeek 最新或完整的研究列表。原文、代码、模型权重的使用条件分别以各自来源为准。
+
+## 近期工程项目与学习计划
+
+[DeepInfer、DeepGEMM、deepseek-recipe、DeepJIT 中文导读](recent-projects.md)
