@@ -235,3 +235,7 @@ yarn deploy
 ## 📄 许可证
 
 [MIT License](./LICENSE)
+
+## DeepSeek 技术报告资料
+
+[DeepSeek-V3、DeepSeek-R1 官方报告链接与中文摘要](docs/deepseek/README.md)
